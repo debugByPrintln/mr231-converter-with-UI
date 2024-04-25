@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="build:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17592a85-f40b-4e39-a83a-3f9cf1dec500" name="Changes" comment="Added Dockerfile">
+      <change afterPath="$PROJECT_DIR$/../.idea/Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startApp/build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/build_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/build_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/build_jar/build.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/build_jar/build.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mr-231/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mr231-3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mr231-3/src/test/java/TestMr231_3Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mr231-3/src/test/java/TestMr231_3Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../startApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../startApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../startApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../startApp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../startApp/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../startApp/src/main/java/org/example/App.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="54d89e98-38cd-4439-a7e2-ff1dd43226ed" />
+        <option name="url" value="https://github.com/debugByPrintln/mr231-3-converter" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bInU4QBSdDgW7tdplIYSY81WIw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "Maven.build [clean,install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8 (2)",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.36666667",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="startApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="database" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.searadar.database.connection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.searadar.database.connection.Main" />
+      <module name="database" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.searadar.database.connection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMr231_3Converter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mr231-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMr231_3Converter" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMr231_3Converter.testWrongCourseTTM" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mr231-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMr231_3Converter" />
+      <option name="METHOD_NAME" value="testWrongCourseTTM" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.org.example.searadar.database.connection.Main" />
+      <item itemvalue="JUnit.TestMr231_3Converter" />
+      <item itemvalue="JUnit.TestMr231_3Converter.testWrongCourseTTM" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.org.example.searadar.database.connection.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TestMr231_3Converter.testWrongCourseTTM" />
+        <item itemvalue="JUnit.TestMr231_3Converter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17592a85-f40b-4e39-a83a-3f9cf1dec500" name="Changes" comment="" />
+      <created>1705911473798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705911473798</updated>
+      <workItem from="1705911476607" duration="2562000" />
+      <workItem from="1705915063167" duration="628000" />
+      <workItem from="1709021864256" duration="42000" />
+      <workItem from="1709021912105" duration="3000" />
+      <workItem from="1709021920599" duration="4000" />
+      <workItem from="1709044513747" duration="28067000" />
+      <workItem from="1709457128593" duration="2586000" />
+      <workItem from="1709552744595" duration="4132000" />
+      <workItem from="1709573448663" duration="5179000" />
+      <workItem from="1709628667025" duration="1437000" />
+      <workItem from="1709997017838" duration="6000" />
+      <workItem from="1710027222474" duration="599000" />
+      <workItem from="1710170928083" duration="413000" />
+      <workItem from="1710252817018" duration="36000" />
+      <workItem from="1710715820937" duration="10000" />
+      <workItem from="1710885888409" duration="359000" />
+      <workItem from="1711040957661" duration="33000" />
+      <workItem from="1711315434170" duration="123000" />
+      <workItem from="1711315777463" duration="697000" />
+      <workItem from="1713127762859" duration="961000" />
+      <workItem from="1713183719177" duration="1147000" />
+      <workItem from="1713190216688" duration="4306000" />
+      <workItem from="1713295683466" duration="5189000" />
+      <workItem from="1713355470027" duration="680000" />
+      <workItem from="1713881464361" duration="1281000" />
+      <workItem from="1713949894490" duration="13684000" />
+      <workItem from="1713977599790" duration="13744000" />
+      <workItem from="1714046519993" duration="2162000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added Dockerfile">
+      <created>1709579238409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709579238409</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Dockerfile" />
+  </component>
+</project>
